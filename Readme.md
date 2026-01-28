@@ -1,14 +1,14 @@
-#Emily Victoria Otakan Anthony
+# Emily Victoria Otakan Anthony
 
-##Contact Information
+## Contact Information
 eva2122@columbia.edu
 ![my headshot](headshot.jpg)
 
-##Education
+## Education
 
 **California State University, Long Beach**
 *B.S. in Biology, option in Zoology, Botany, and Ecology*
-[Degree homepage] (https://www.csulb.edu/college-of-natural-sciences-and-mathematics/bs-biology-option-zoology-botany-and-ecology-2024-2025)
+[Degree homepage](https://www.csulb.edu/college-of-natural-sciences-and-mathematics/bs-biology-option-zoology-botany-and-ecology-2024-2025)
 
 * Evolutionary Biology
 * Comparative Animal Physiology
@@ -20,7 +20,7 @@ eva2122@columbia.edu
   
 **Columbia University in the City of New York**
 *M.S. in Climate, Certificate in Climate Systems and Analytics*
-[Degree homepage] (https://www.climate.columbia.edu/ms-climate)
+[Degree homepage](https://www.climate.columbia.edu/ms-climate)
 * Dynamics of Climate Variability and Change
 * Climate Mitigation
 * Climate Adaptation
@@ -29,3 +29,9 @@ eva2122@columbia.edu
 * Quantitative Methods for Climate Applications
 * Computing and Research Methods for Climate Data Science
     * *This class!!*
+
+ ## Professional Interests
+ * Tropical mangrove and coral reef connectivity
+ * Shark behavior and population changes due to anthropogenic climate change
+ * Conservation legislation influenced by biodiversity hotspot research
+ * Land and water justice and repatriation
